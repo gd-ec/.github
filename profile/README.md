@@ -1,4 +1,4 @@
-#🚀 GUANDA-EC (廣達電控)
+# 🚀 GUANDA-EC (廣達電控)
 
 <!--
 
